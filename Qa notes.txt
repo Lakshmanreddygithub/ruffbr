@@ -1,0 +1,4 @@
+test notes:
+Manual-
+Automation-uft,selenium
+
